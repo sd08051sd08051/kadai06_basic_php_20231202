@@ -64,7 +64,7 @@ if(isset($_POST['submit'])){
 
  
 function lineBroadcast($text){
-    $channelToken = 'eGUuYf8FRL8qRNAiL2YO5C3JnPJ0dhGoc9IC93Mg1hAOj55/CXddIm59jgJpr+jlIi5b+9ZK1+p/6aqepz0Y1PBF/I566D1kW1K79R6YK0+gUR0CDJHoPR+W6yQQwPsuoDuym4/DX1u0HIs8uO9YmAdB04t89/1O/w1cDnyilFU=';
+    $channelToken = '＊＊＊＊＊＊＊＊';
     $headers = [
         'Authorization: Bearer ' . $channelToken,
         'Content-Type: application/json; charset=utf-8',
